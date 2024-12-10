@@ -1,4 +1,13 @@
-## Hi there 👋
+<h2>Hey 👋, I'm <a href="https://yuhior.com/">Yuhior</a></h2>
+
+- 🔭 I’m currently working on Beijing
+- 🌱 I’m currently learning three.js
+- 👯 I’m looking to collaborate on all 3D patterns for design, programming, or specific 3D modeling
+- 🤔 I’m looking for help with technology
+- 💬 Ask me about happy everythings
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <!--
 **Yuhior/Yuhior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
