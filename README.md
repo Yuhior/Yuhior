@@ -1,6 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://yuhior.com/">Yuhior</a></h2>
 
-# 💫 About Me:
 🔭 I’m currently working on Beijing<br>
 🌱 I’m currently learning three.js<br>
 👯 I’m looking to collaborate on all 3D patterns for design, programming, or specific 3D modeling<br>
