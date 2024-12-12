@@ -1,12 +1,12 @@
 <h2>Hey 👋, I'm <a href="https://yuhior.com/">Yuhior</a></h2>
 
 **About me**
-- 🔭 I’m currently working on Beijing
-- 🌱 I’m currently learning three.js
-- 👯 I’m looking to collaborate on all 3D patterns for design, programming, or specific 3D modeling
-- 🤔 I’m looking for help with technology
-- 💬 Ask me about happy everything
-- 📫 How to reach me: 942yhb@gmail.com
+🔭 I’m currently working on Beijing<br>
+🌱 I’m currently learning three.js<br>
+👯 I’m looking to collaborate on all 3D patterns for design, programming, or specific 3D modeling<br>
+🤔 I’m looking for help with technology<br>
+💬 Ask me about happy everything<br>
+📫 How to reach me: 942yhb@gmail.com<br>
 
 **💻 Tech Stack:**
 
