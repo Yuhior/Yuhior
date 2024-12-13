@@ -1,6 +1,21 @@
-<h2>Hey 👋, I'm <a href="https://yuhior.com/">Yuhior</a></h2>
+
+
+<div align="left">
+  <div align="center">
+    <a  href="https://git.io/typing-svg">
+      <img  align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&width=604&height=62&lines=console.log('hello+world');Yuhior's+code+world" alt="Typing SVG" />
+    </a>
+  </div>
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+  <p align="left">If I have seen farther than other men, it is because I have stood on the shoulders of giants.</p>
+</div>
+
+
+
+<h2>Hey 👋 men </h2>
 
 **About me**
+
 🔭 I’m currently working on Beijing<br>
 🌱 I’m currently learning three.js<br>
 👯 I’m looking to collaborate on all 3D patterns for design, programming, or specific 3D modeling<br>
